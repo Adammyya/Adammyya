@@ -5,7 +5,8 @@
 - 📫 How to reach me: On github only (not a person with a well social background, I'm working on it ;-)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am such a bore, sorry!
-  Hope you'll find my profile and help me and I'll do the same if I'm capable. Thank you
+  Hope you'll find my profile and help me and I'll do the same if I'm capable.
+  
   "Man only likes to count his troubles; he doesn't calculate his happiness" - Fyodor Dostoevsky 
 
 <!---
