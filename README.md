@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Adammyya
-- 👀 I’m interested in trekking, a little bit of literature and programing 
-- 🌱 I’m currently learning C and it's other extensions
+- 👀 I’m interested in a little bit of literature and programing 
 - 💞️ I’m looking to collaborate on projects which will help me grow as a programmer and will help me look beyond the ordinary.
 - 📫 How to reach me: On github only (not a person with a well social background, I'm working on it ;-)
 - 😄 Pronouns: she/her
