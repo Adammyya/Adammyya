@@ -1,14 +1,22 @@
-- 👋 Hi, I’m @Adammyya
-- 👀 I’m interested in a little bit of literature and programing 
-- 💞️ I’m looking to collaborate on projects which will help me grow as a programmer and will help me look beyond the ordinary.
-- 📫 How to reach me: On github only (not a person with a well social background, I'm working on it ;-)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am such a bore, sorry!
-  Hope you'll find my profile and help me and I'll do the same if I'm capable.
-  
-  "Man only likes to count his troubles; he doesn't calculate his happiness" - Fyodor Dostoevsky 
+👋 Hi there! I'm Adamya  
+🎓 First-year Computer Science student | 💡 Passionate about Open Source & Automation
 
-<!---
-Adammyya/Adammyya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Currently learning:
+- GitHub Actions, Python, JavaScript, and Discord API, Machine Learning and Web Development.
+- Real-world software development through community collaboration
+
+🌱 I’m looking to:
+- Contribute to open-source projects
+- Build cool integrations and automations
+- Learn from experienced developers and mentors
+
+🚀 Projects I’m excited about:
+- Workflow automation
+- Developer productivity tools
+
+📫 Let's connect:  
+Discord: 765064933930696725 | Email: Adamya.pandey2506@gmail.com | LinkedIn: www.linkedin.com/in/
+adamya-pandey-86049727a
+
+
+✨ "Learning by building. Growing by contributing." ✨
