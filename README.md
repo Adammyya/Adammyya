@@ -2,7 +2,7 @@
 🎓 First-year Computer Science student | 💡 Passionate about Open Source & Automation
 
 🔧 Currently learning:
-- GitHub Actions, Python, JavaScript, and Discord API, Machine Learning and Web Development.
+- GitHub Actions, Python, JavaScript, Machine Learning and Web Development.
 - Real-world software development through community collaboration
 
 🌱 I’m looking to:
