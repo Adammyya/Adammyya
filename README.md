@@ -2,8 +2,8 @@
 🎓 First-year Computer Science student | 💡 Passionate about Open Source & Automation
 
 🔧 Currently learning:
-- GitHub Actions, Python, JavaScript, Machine Learning and Web Development.
-- Real-world software development through community collaboration
+- GitHub Actions, Python, Java, Machine Learning and Web Development.
+- Real-world software development through community collaboration.
 
 🌱 I’m looking to:
 - Contribute to open-source projects
