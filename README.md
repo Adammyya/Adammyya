@@ -84,7 +84,7 @@ I believe technology should serve humanity — not just those who can afford it.
 
 ## 💻 Featured Projects
 
-### 📊 [Crypto Tracker](https://github.com/adamya-pandey/crypto-tracker)
+### 📊 [Crypto Tracker](https://github.com/Adammyya/crypto-tracker)
 
 > Real-time cryptocurrency tracking application
 
@@ -99,9 +99,9 @@ I believe technology should serve humanity — not just those who can afford it.
 
 <div align="center">
 
-![Adamya’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamya-pandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adammyya&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamya-pandey&layout=compact&theme=tokyonight&hide_border=true)
+![Adamya’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adammyya&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -125,6 +125,6 @@ I’m always open to conversations about **research, open-source, UNICEF tech, o
 
 *“Build things that matter. Learn from everyone. Leave the codebase better than you found it.”*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=adamya-pandey&color=00d9ff&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Adammyya&color=00d9ff&style=flat-square&label=Profile+Views)
 
 </div>
