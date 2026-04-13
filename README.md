@@ -1,5 +1,5 @@
 👋 Hi there! I'm Adamya  
-🎓 First-year Computer Science student | 💡 Passionate about Open Source & Automation
+🎓 Computer Science student | 💡 Passionate about Open Source & Automation
 
 🔧 Currently learning:
 - GitHub Actions, Python, Java, Machine Learning and Web Development.
