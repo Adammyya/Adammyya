@@ -90,7 +90,6 @@ I believe technology should serve humanity — not just those who can afford it.
 
 - 📡 Fetches **live crypto data** via REST APIs
 - 📈 Tracks prices, market cap, and trends
-- 🛠️ Built with **Python / Java** — clean backend architecture
 - 🔄 Demonstrates real-world **API integration & data handling**
 
 -----
