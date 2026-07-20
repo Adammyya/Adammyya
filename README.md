@@ -1,129 +1,173 @@
+<h1 align="center">Hi there 👋, I'm Adamya Pandey</h1>
+<h3 align="center">AI Engineer in the making — building intelligent systems, one commit at a time.</h3>
+
+<br/>
+
+## 🚀 About Me
+
+I'm a Computer Science (AI & ML) student who believes in **learning by building**. Instead of just studying concepts, I turn them into working software — AI-powered applications, backend systems, and developer tools that solve real problems.
+
+My current focus lives at the intersection of **Artificial Intelligence, Large Language Models, and AI Agents**, paired with strong fundamentals in **Backend Engineering, Java, and System Design**. I enjoy the full journey of building something — from designing the architecture to shipping a polished, functional product.
+
+Long-term, I'm working toward becoming an **AI Engineer** who builds production-grade intelligent systems — the kind that are reliable, scalable, and genuinely useful.
+
+<br/>
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Adamya+%F0%9F%91%8B;CS+Student+%7C+Builder+%7C+Researcher;Open+Source+%E2%9D%A4%EF%B8%8F+Automation+%F0%9F%A4%96+Social+Impact+%F0%9F%8C%8D" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications+%F0%9F%A4%96;Exploring+LLMs+%26+AI+Agents+%F0%9F%A7%A0;Backend+Engineer+%7C+Java+Developer+%E2%98%95;Learning+by+Building%2C+Always+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
------
-
-## 🧠 About Me
-
-I’m a **Computer Science student** driven by curiosity at the intersection of **technology, research, and real-world impact**. I love building things that matter — from backend systems powering APIs to ML models uncovering patterns in data.
-
-- 🔬 Researching **Machine Learning** and **Large Language Models (LLMs)**
-- 🌍 Passionate about **tech for social good**, with a focus on **UNICEF’s humanitarian tech initiatives**
-- ⚙️ Building **automations and developer tools** that eliminate friction
-- 🏆 Active **competitive programmer** — I love algorithmic challenges under pressure
-- 🤝 Looking to collaborate on **open-source** and **impactful projects**
-
------
-
-## 🔭 Research Interests
-
-```
-Machine Learning  ──────────────────────  ████████████  Deep
-Large Language Models (LLMs)  ──────────  ██████████░░  Active
-NLP & AI for Social Good  ──────────────  █████████░░░  Growing
-Workflow Automation & AI Agents  ────────  ████████░░░░  Exploring
-```
-
-I’m particularly interested in how **LLMs can be applied to humanitarian challenges** — making technology more accessible, interpretable, and impactful in under-resourced contexts (think UNICEF, NGOs, global health).
-
------
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Programming Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Backend & APIs
+**Frontend**
 
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### ML & Data
+**Backend**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### DevOps & Tooling
+**Databases**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI & ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge&logo=OpenAI&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
------
+<br/>
 
-## 🚀 What I’m Building & Learning
+## 📚 Currently Learning
 
-|Area                                          |Status               |
-|----------------------------------------------|---------------------|
-|🤖 LLM fine-tuning & prompt engineering        |🔄 Actively exploring |
-|🌐 Backend REST APIs (Java + Python)           |✅ Hands-on experience|
-|⚙️ GitHub Actions & CI/CD pipelines            |🔄 Currently learning |
-|🧩 Competitive Programming (DSA, Algorithms)   |✅ Ongoing            |
-|🌍 Tech for social impact (UNICEF ecosystem)   |🔭 Researching        |
-|🏗️ Developer productivity & workflow automation|🚀 Excited to build   |
+<img src="https://img.shields.io/badge/Advanced_Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-4A90E2?style=flat-square&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Engineering-8E44AD?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 
------
+<br/>
 
-## 🌍 Social Impact & UNICEF Tech
+## 💡 Featured Projects
 
-I believe technology should serve humanity — not just those who can afford it. I’m actively seeking **internship opportunities** within the **UNICEF Innovation and Tech for Development** space, and exploring:
+### 🤖 AURA — AI Desktop Assistant
+A futuristic AI desktop assistant inspired by JARVIS, built with a modular architecture and a beautiful, futuristic UI.
+- 🎙️ Voice Assistant & AI Chat
+- 🧠 Long-term Memory
+- 🌦️ Weather & 📰 News Feed
+- 🖥️ System Monitoring
+- 🧩 Modular, extensible architecture
 
-- **UNICEF internships** in tech, data, and digital innovation teams
-- **AI/ML applications** for education, health, and crisis response
-- **Open-source tools** that communities in emerging markets can own and adapt
+### ☕ JASMINE — AI-Powered Java Learning Assistant
+An AI tutor built to make learning Java intuitive and interactive.
+- 📊 Visual Java explanations
+- 🐞 Code debugging assistance
+- 🎓 Interactive AI-driven tutoring
+- 🗺️ Java roadmap & DSA preparation
 
-> *“Technology is most powerful when it empowers those who need it most.”*
+<br/>
 
------
-
-## 💻 Featured Projects
-
-### 📊 [Crypto Tracker](https://github.com/Adammyya/crypto-tracker)
-
-> Real-time cryptocurrency tracking application
-
-- 📡 Fetches **live crypto data** via REST APIs
-- 📈 Tracks prices, market cap, and trends
-- 🔄 Demonstrates real-world **API integration & data handling**
-
------
-
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adammyya&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Adamya’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adammyya&theme=tokyo-night&hide_border=true&area=true)
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adammyya&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Adammyya&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </div>
 
------
-
-## 🤝 Let’s Connect
-
-I’m always open to conversations about **research, open-source, UNICEF tech, or just geeking out over algorithms.**
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamya-pandey-86049727a)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Adamya.pandey2506@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/765064933930696725)
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adammyya&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </div>
 
------
+<br/>
+
+## 📈 Contribution Graph
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adammyya&theme=dracula&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
 
-*“Build things that matter. Learn from everyone. Leave the codebase better than you found it.”*
+<br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Adammyya&color=00d9ff&style=flat-square&label=Profile+Views)
+## 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adammyya&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+## 🔨 Currently Working On
+
+- 🧠 Improving **AURA**'s long-term memory and agentic capabilities
+- ☕ Expanding **JASMINE** with deeper DSA and interview-prep modules
+- 🏗️ Strengthening backend and system design fundamentals with Spring Boot
+- 🔗 Exploring multi-agent workflows with LangChain
+
+<br/>
+
+## 🤝 Open to Collaborate
+
+I'm open to collaborating on:
+- 🤖 AI Agents & LLM-powered applications
+- ⚙️ Backend systems & API design
+- 🌐 Open-source developer tools
+- 📚 Educational tech / learning assistants
+
+If you're building something interesting in these spaces, let's talk!
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://github.com/Adammyya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>⭐ Thanks for visiting my profile — feel free to explore my repositories!</sub>
 </div>
