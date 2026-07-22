@@ -128,17 +128,7 @@ Instead of a plain graph, my contributions get devoured every day by a snake �
 </div>
 
 > **Setup note:** the snake animation is self-hosted from your own repo (not a third-party live service), so it won't go down like the widgets above sometimes do.
-
-<details>
-<summary>⚙️ One-time setup for the snake animation (click to expand)</summary>
-
-1. In your `Adammyya/Adammyya` profile repo, add the file `.github/workflows/snake.yml` (included alongside this README).
-2. Commit and push to `main` — this triggers the Action automatically (also runs every 12 hours after that).
-3. Go to the **Actions** tab and confirm the "Generate Snake Animation" workflow ran successfully. It creates a new `output` branch with the generated SVGs.
-4. That's it — the `<picture>` tag above already points to the correct raw GitHub URLs for your username, so the snake will appear automatically once the branch exists.
-
-</details>
-
+> 
 <br/>
 
 ## 🏆 GitHub Trophies
