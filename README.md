@@ -99,28 +99,52 @@ An AI tutor built to make learning Java intuitive and interactive.
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adammyya&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Adammyya&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Adammyya&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=Adammyya&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adammyya&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adammyya&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </div>
 
 <br/>
 
-## 📈 Contribution Graph
+## 🐍 Contribution Activity
+
+Instead of a plain graph, my contributions get devoured every day by a snake 🟩⬜
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adammyya/Adammyya/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adammyya/Adammyya/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Adammyya/Adammyya/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adammyya&theme=dracula&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
+
+> **Setup note:** the snake animation is self-hosted from your own repo (not a third-party live service), so it won't go down like the widgets above sometimes do.
+
+<details>
+<summary>⚙️ One-time setup for the snake animation (click to expand)</summary>
+
+1. In your `Adammyya/Adammyya` profile repo, add the file `.github/workflows/snake.yml` (included alongside this README).
+2. Commit and push to `main` — this triggers the Action automatically (also runs every 12 hours after that).
+3. Go to the **Actions** tab and confirm the "Generate Snake Animation" workflow ran successfully. It creates a new `output` branch with the generated SVGs.
+4. That's it — the `<picture>` tag above already points to the correct raw GitHub URLs for your username, so the snake will appear automatically once the branch exists.
+
+</details>
 
 <br/>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adammyya&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Adammyya&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br/>
