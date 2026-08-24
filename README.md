@@ -169,7 +169,7 @@ If you're building something interesting in these spaces, let's talk!
   <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:adamya.pandey2506@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
