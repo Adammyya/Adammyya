@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Adamya Pandey</h1>
-<h3 align="center">AI Engineer in the making — building intelligent systems, one commit at a time.</h3>
+<h3 align="center">Engineer in the making — building intelligent systems, one commit at a time.</h3>
 
 <br/>
 
