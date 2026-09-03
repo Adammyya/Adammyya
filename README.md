@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔴🟡 STARK INDUSTRIES × KAMAR-TAJ 🔮
+# 🔴🟡 ADAMYA INDUSTRIES × CODE SORCERER 🔮
 
 ### *Engineering the future. Guarding the code multiverse.*
 
@@ -154,14 +154,10 @@ A research-oriented Java desktop framework for JVM runtime analysis — currentl
 
 ## ⏳ Time Stone // Contribution Activity
 
-Every commit is a loop through the multiverse of this repo — some timelines break, most get merged.
+The reactor and the portal, running in sync — one built by science, one opened by will. Both stable, both live.
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adammyya/Adammyya/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adammyya/Adammyya/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Adammyya/Adammyya/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
+  <img alt="Arc Reactor and Kamar-Taj Portal HUD" src="https://raw.githubusercontent.com/Adammyya/Adammyya/main/mcu-hud-banner.svg" width="100%"/>
 </div>
 
 <div align="center">
