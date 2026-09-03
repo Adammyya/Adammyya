@@ -1,117 +1,160 @@
-<h1 align="center">Hi there 👋, I'm Adamya Pandey</h1>
-<h3 align="center">Engineer in the making — building intelligent systems, one commit at a time.</h3>
-
-<br/>
-
-## 🚀 About Me
-
-I'm a Computer Science (AI & ML) student who believes in **learning by building**. Instead of just studying concepts, I turn them into working software — AI-powered applications, backend systems, and developer tools that solve real problems.
-
-My current focus lives at the intersection of **Artificial Intelligence, Large Language Models, and AI Agents**, paired with strong fundamentals in **Backend Engineering, Java, and System Design**. I enjoy the full journey of building something — from designing the architecture to shipping a polished, functional product.
-
-Long-term, I'm working toward becoming an **AI Engineer** who builds production-grade intelligent systems — the kind that are reliable, scalable, and genuinely useful.
-
-<br/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications+%F0%9F%A4%96;Exploring+LLMs+%26+AI+Agents+%F0%9F%A7%A0;Backend+Engineer+%7C+Java+Developer+%E2%98%95;Learning+by+Building%2C+Always+%F0%9F%9A%80" alt="Typing SVG" />
+
+# 🔴🟡 STARK INDUSTRIES × KAMAR-TAJ 🔮
+
+### *Engineering the future. Guarding the code multiverse.*
+
 </div>
 
 <br/>
 
-## 🛠️ Tech Stack
-
-**Programming Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI & ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge&logo=OpenAI&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-<br/>
-
-## 📚 Currently Learning
-
-<img src="https://img.shields.io/badge/Advanced_Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/System_Design-4A90E2?style=flat-square&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Engineering-8E44AD?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-
-<br/>
-
-## 💡 Featured Projects
-
-### 🤖 AURA — AI Desktop Assistant
-A futuristic AI desktop assistant inspired by JARVIS, built with a modular architecture and a beautiful, futuristic UI.
-- 🎙️ Voice Assistant & AI Chat
-- 🧠 Long-term Memory
-- 🌦️ Weather & 📰 News Feed
-- 🖥️ System Monitoring
-- 🧩 Modular, extensible architecture
-
-### ☕ JASMINE — AI-Powered Java Learning Assistant
-An AI tutor built to make learning Java intuitive and interactive.
-- 📊 Visual Java explanations
-- 🐞 Code debugging assistance
-- 🎓 Interactive AI-driven tutoring
-- 🗺️ Java roadmap & DSA preparation
-
-<br/>
-
-## 📊 GitHub Statistics
-
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Adammyya&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=Adammyya&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adammyya&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=650&lines=Booting+J.A.R.V.I.S...+100%25+online;Opening+a+portal+to+Kamar-Taj+%F0%9F%94%AE;Suiting+up+the+Mark-AI+armor+%E2%9A%A1;Studying+the+ancient+arts+of+code+%F0%9F%93%9C;I+am+Iron+Man.+I+am+also+very+tired." alt="Typing SVG" />
 </div>
 
 <br/>
 
-## 🐍 Contribution Activity
+## 🧬 Sorcerer's Log // About Me
 
-Instead of a plain graph, my contributions get devoured every day by a snake 🟩⬜
+I'm **Adamya Pandey** — a 3rd-year CSE (AI & ML) student building across the AI/ML and systems stack: LLM orchestration, reinforcement-learning environments, and event-driven microservices. Part engineer, part apprentice sorcerer — by day I build things that (mostly) don't explode on first boot; by night I study the ancient arts of AI in a Sanctum built from Python, Java, and too many open terminal tabs.
+
+Like Tony, I believe the best way to learn is to **build the suit before you fully understand the suit** — ship it, break it, iterate. Like Strange, I believe there's always **one more path worth exploring** — one more architecture, one more edge case, one more "what if we tried it this way."
+
+Currently seeking a **Machine Learning / AI / Backend internship** at an early-stage engineering team — ready to suit up.
+
+<br/>
+
+## ⚙️ Suit Schematics // Tech Stack
+
+**Core Languages**
+
+![Python](https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=FFD700)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=FFD700)
+![Java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=FFD700)
+![C](https://img.shields.io/badge/C-8B0000?style=for-the-badge&logo=c&logoColor=FFD700)
+
+**The Mystic Arts (AI / ML)**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF8C00?style=for-the-badge&logoColor=1a1a2e)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF8C00?style=for-the-badge&logoColor=1a1a2e)
+![LLMs](https://img.shields.io/badge/LLMs-FF8C00?style=for-the-badge&logoColor=1a1a2e)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF8C00?style=for-the-badge&logoColor=1a1a2e)
+![AI Inference](https://img.shields.io/badge/AI_Inference-FF8C00?style=for-the-badge&logoColor=1a1a2e)
+![RL Environments](https://img.shields.io/badge/RL_Environments-FF8C00?style=for-the-badge&logoColor=1a1a2e)
+
+**Reactor Core (Backend & Systems)**
+
+![Node.js](https://img.shields.io/badge/Node.js-8B0000?style=for-the-badge&logo=node.js&logoColor=FFD700)
+![Express.js](https://img.shields.io/badge/Express.js-8B0000?style=for-the-badge&logo=express&logoColor=FFD700)
+![FastAPI](https://img.shields.io/badge/FastAPI-8B0000?style=for-the-badge&logo=fastapi&logoColor=FFD700)
+![REST APIs](https://img.shields.io/badge/REST_APIs-8B0000?style=for-the-badge&logoColor=FFD700)
+![Socket.io](https://img.shields.io/badge/WebSockets/Socket.io-8B0000?style=for-the-badge&logo=socketdotio&logoColor=FFD700)
+![Microservices](https://img.shields.io/badge/Microservices-8B0000?style=for-the-badge&logoColor=FFD700)
+![Event-Driven](https://img.shields.io/badge/Event--Driven_Architecture-8B0000?style=for-the-badge&logoColor=FFD700)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-8B0000?style=for-the-badge&logoColor=FFD700)
+![JWT](https://img.shields.io/badge/JWT-8B0000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFD700)
+
+**HUD & Interface (Frontend)**
+
+![React](https://img.shields.io/badge/React.js-4C1D95?style=for-the-badge&logo=react&logoColor=00E5FF)
+![Vite](https://img.shields.io/badge/Vite-4C1D95?style=for-the-badge&logo=vite&logoColor=00E5FF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4C1D95?style=for-the-badge&logo=tailwindcss&logoColor=00E5FF)
+![Zustand](https://img.shields.io/badge/Zustand-4C1D95?style=for-the-badge&logoColor=00E5FF)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-4C1D95?style=for-the-badge&logo=framer&logoColor=00E5FF)
+![Leaflet](https://img.shields.io/badge/Leaflet-4C1D95?style=for-the-badge&logo=leaflet&logoColor=00E5FF)
+
+**The Vault (Data)**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4C1D95?style=for-the-badge&logo=mongodb&logoColor=00E5FF)
+![SQLite](https://img.shields.io/badge/SQLite-4C1D95?style=for-the-badge&logo=sqlite&logoColor=00E5FF)
+
+**Vibranium Workshop (Java Systems & Tools)**
+
+![JavaFX](https://img.shields.io/badge/JavaFX-333333?style=for-the-badge&logoColor=FFD700)
+![JMX](https://img.shields.io/badge/JMX-333333?style=for-the-badge&logoColor=FFD700)
+![Maven](https://img.shields.io/badge/Maven-333333?style=for-the-badge&logo=apachemaven&logoColor=FFD700)
+![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=FFD700)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=FFD700)
+![Docker](https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=FFD700)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-333333?style=for-the-badge&logo=docker&logoColor=FFD700)
+![Unity](https://img.shields.io/badge/Unity-333333?style=for-the-badge&logo=unity&logoColor=FFD700)
+
+<br/>
+
+## ⚡ The Armory // Featured Projects
+
+### ⚖️ LegalLens — *The Archives of Kamar-Taj*
+**OpenEnv · Python · FastAPI · React · Docker**
+[github.com/Adammyya/legallens-openenv](https://github.com/Adammyya/legallens-openenv)
+
+An AI reinforcement-learning environment where an agent investigates Indian legal cases — judged not by a Sorcerer Supreme, but by reward-based graders.
+
+- Architected an OpenEnv-compliant RL environment exposing standard `reset()`, `step()`, and `state()` interfaces
+- Built a reward-based evaluation architecture across 4 benchmark legal tasks, with task-specific graders penalizing hallucinated legal citations
+- Served via FastAPI + React/Vite, containerized with Docker
+
+`Legal Case Input → Environment State (reset/step) → Agent Action → Reward/Grader Evaluation → Structured Analysis`
+
+### 🛰️ SYNAPSE — *Stark City Command Grid*
+**React · Node.js · Socket.io · Python · REST APIs**
+[github.com/Adammyya/urban-intelligence-platform](https://github.com/Adammyya/urban-intelligence-platform)
+
+An event-driven microservice platform simulating real-time urban telemetry with AI-based risk inference — a city-scale HUD.
+
+- Architected a polyglot microservice system decoupling a React client, Node.js/Socket.io telemetry broker, REST API, and Python inference service into independently runnable components
+- Engineered a real-time WebSocket pipeline broadcasting simulated IoT telemetry every 2 seconds
+- Built a Python inference service returning urban-risk predictions, visualized on a React/Zustand/Leaflet dashboard, orchestrated via Docker Compose
+
+`IoT Telemetry (simulated) → WebSocket Broker → REST API → Python Inference Service → React Command Center`
+
+### 🔴🟡 AURA — *Mark-Class AI Assistant*
+**React · Node.js · Express · Gemini**
+
+A modular AI assistant orchestrating LLM reasoning, persistent memory, and system tools through a state-driven interface — J.A.R.V.I.S., but self-built.
+
+- Designed a cognitive-router architecture directing requests across LLM reasoning, memory recall, and tool-execution pathways in a modular Node.js backend
+- Implemented persistent memory, conversation history, and a personality engine
+- Integrated Gemini LLM orchestration with voice interaction and real-time weather/news/diagnostics via a React/Vite frontend
+
+`User → Voice/Text Input → Cognitive Router → LLM (Gemini) → Memory & Tools → Response`
+
+### 🔮 JASMINE — *JVM Runtime Analysis Platform*
+**Java · JavaFX · Maven · JMX** — 🚧 *Architecture & Planning Stage*
+[github.com/Adammyya/jasmine-jvm-analysis](https://github.com/Adammyya/jasmine-jvm-analysis)
+
+A research-oriented Java desktop framework for JVM runtime analysis — currently being drafted in the Sanctum's back room.
+
+- Defined the system architecture and technology stack (Java 25, JavaFX, Maven, SQLite, JMX) for a planned JVM runtime-monitoring and performance-analysis platform
+- Scoping modules for future heap, thread, GC, and benchmark analysis via Java Management Extensions
+
+`JVM Application → JMX Runtime Metrics (planned) → Analyzer (planned) → SQLite Storage → Performance Insights`
+
+<br/>
+
+## 🎖️ Field Missions // Experience
+
+**Backend Developer Intern** — Atthah Info Media Pvt. Ltd., Gurugram, India · *Jun 2025 – Aug 2025*
+- Developed backend REST APIs (Node.js/Express, JWT, MongoDB)
+- Built a cryptocurrency tracker and a blog platform with full CRUD
+
+<br/>
+
+## 📊 Stark Industries // Analytics Division
+
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Adammyya&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=Adammyya&theme=gotham&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adammyya&layout=compact&theme=gotham&hide_border=true" alt="Top Languages"/>
+</div>
+
+<br/>
+
+## ⏳ Time Stone // Contribution Activity
+
+Every commit is a loop through the multiverse of this repo — some timelines break, most get merged.
 
 <div align="center">
   <picture>
@@ -121,67 +164,64 @@ Instead of a plain graph, my contributions get devoured every day by a snake �
   </picture>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adammyya&theme=dracula&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
-> **Setup note:** the snake animation is self-hosted from your own repo (not a third-party live service), so it won't go down like the widgets above sometimes do.
-> 
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Adammyya&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adammyya&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br/>
 
-## 🔨 Currently Working On
+## 🏆 Avengers Initiative // Commendations
 
-- 🧠 Improving **AURA**'s long-term memory and agentic capabilities
-- ☕ Expanding **JASMINE** with deeper DSA and interview-prep modules
-- 🏗️ Strengthening backend and system design fundamentals with Spring Boot
-- 🔗 Exploring multi-agent workflows with LangChain
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=Adammyya&theme=gotham&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
 
 <br/>
 
-## 🤝 Open to Collaborate
+## 🎯 Active Mission Briefing
 
-I'm open to collaborating on:
-- 🤖 AI Agents & LLM-powered applications
-- ⚙️ Backend systems & API design
+- ⚖️ Expanding **LegalLens**'s benchmark tasks and grader coverage
+- 🛰️ Hardening **SYNAPSE**'s telemetry pipeline and risk-inference accuracy
+- 🧠 Upgrading **AURA**'s cognitive router and memory core
+- 🔮 Moving **JASMINE** from planning into its first working build
+
+<br/>
+
+## 🤝 Assemble // Open to Collaborate
+
+The Avengers didn't work alone, and neither do I. Open to teaming up on:
+
+- 🔴 AI Agents, LLM orchestration & RL environments
+- ⚙️ Backend systems, microservices & event-driven architecture
 - 🌐 Open-source developer tools
-- 📚 Educational tech / learning assistants
+- 🔮 Research-oriented systems projects (JVM tooling, performance analysis)
 
-If you're building something interesting in these spaces, let's talk!
+If you're building something worth suiting up for, send a signal.
 
 <br/>
 
-## 📫 Let's Connect
+## 📡 Open a Portal // Let's Connect
 
 <div align="center">
   <a href="https://github.com/Adammyya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/adaammya16" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:adamya.pandey2506@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <i>"The best way to predict the future is to build it."</i>
+  <i>"Part of the journey is the end." — and part of the code is the debugging.</i>
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>⭐ Thanks for visiting my profile — feel free to explore my repositories!</sub>
+  <sub>🔴🟡🔮 Sanctum secured. Reactor stable. Thanks for visiting. 🔮🟡🔴</sub>
 </div>
