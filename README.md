@@ -167,7 +167,7 @@ The reactor and the portal, running in sync — one built by science, one opened
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adammyya&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Adammyya&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br/>
